@@ -2,6 +2,10 @@
 
 This is a React + Vite project that contains multiple mini projects in one app.
 
+## Live Demo
+
+- https://hooks-cyan.vercel.app/
+
 ## Projects Inside
 
 - Background Changer: Change the page background interactively by selecting preset colors.
